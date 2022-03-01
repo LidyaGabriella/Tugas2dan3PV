@@ -1,0 +1,5 @@
+D:\tugasCSharp\Nomor1\bin\Debug\Nomor1.exe
+D:\tugasCSharp\Nomor1\bin\Debug\Nomor1.pdb
+D:\tugasCSharp\Nomor1\obj\Debug\Nomor1.csprojResolveAssemblyReference.cache
+D:\tugasCSharp\Nomor1\obj\Debug\Nomor1.exe
+D:\tugasCSharp\Nomor1\obj\Debug\Nomor1.pdb
